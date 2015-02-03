@@ -31,17 +31,17 @@ To qualify for a bounty, you must:
 * Adhere to our Responsible Disclosure Policy
 * Be the first person to responsibly disclose the bug
 * Report a bug that could compromise the integrity of user data, circumvent the privacy protections of user data, or enable access to a system within our infrastructure, such as:
-1. Cross-Site Scripting (XSS)
-2. Cross-Site Request Forgery (CSRF/XSRF)
-3. Code Injection
-4. Remote Code Execution
-5. Privilege Escalation
-6. Clickjacking
-7. Provisioning Errors
-8. Leakage of Sensitive Data
-9. Authentication Bypass
-10. Broken Authentication (including Facebook OAuth bugs)
-11. Circumvention of our platform/privacy permission models
+  1. Cross-Site Scripting (XSS)
+  2. Cross-Site Request Forgery (CSRF/XSRF)
+  3. Code Injection
+  4. Remote Code Execution
+  5. Privilege Escalation
+  6. Clickjacking
+  7. Provisioning Errors
+  8. Leakage of Sensitive Data
+  9. Authentication Bypass
+  10. Broken Authentication (including Facebook OAuth bugs)
+  11. Circumvention of our platform/privacy permission models
 * Report a bug in Yacuna, Yacuna Direct or Yacuna Developer API.
 * Make every effort to use a test account instead of a real account when investigating bugs. When you are unable to reproduce a bug with a test account, it is acceptable to use a real account, except for automated testing.
 * Not interact with other accounts without the consent of their owners.
@@ -65,13 +65,13 @@ ATTRIBUTES OF A GOOD REPORT
 * Clear descriptions of any accounts used in your report and the relationships between them. Please do not use the same name on multiple accounts to avoid confusion.
 * Quality before quantity. Many of our highest-paid reports had just a few lines of precise, clear explanations.
 * If you send a video, consider these tips:
-1. Keep it short by showing only the parts necessary to demonstrate the bug once.
-2. Remove or redo mistakes that might happen while recording.
-3. Record at a resolution where text or URLs are readable, at least 480p; (1080p is usually not necessary).
-4. Provide commentary or instructions in your messages or video description instead of typing on-screen during the video.
-5. Setting Yacuna to English while recording steps helps us quickly identify what features you use.
-6. If a large amount of text appears in your video, please include a copy in your messages as well.
-7. Keep the video private either by uploading it as an attachment or posting it privately online (such as with a hidden link or password that you send to us).
+  1. Keep it short by showing only the parts necessary to demonstrate the bug once.
+  2. Remove or redo mistakes that might happen while recording.
+  3. Record at a resolution where text or URLs are readable, at least 480p; (1080p is usually not necessary).
+  4. Provide commentary or instructions in your messages or video description instead of typing on-screen during the video.
+  5. Setting Yacuna to English while recording steps helps us quickly identify what features you use.
+  6. If a large amount of text appears in your video, please include a copy in your messages as well.
+  7. Keep the video private either by uploading it as an attachment or posting it privately online (such as with a hidden link or password that you send to us).
 * Send your detailed bug report to bounty@yacuna.com.
 
 ## INELIGIBLE REPORTS AND FALSE POSITIVES
