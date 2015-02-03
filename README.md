@@ -1,3 +1,7 @@
+# Non-Gratification Github Issue Tracker
+
+Welcome to our Github Issue Tracker. Here you can quickly report low-severity bugs. In contrast to our Bounty Program you will earn **no** monetary reward this way. Still you are helping out our exchange and therefore the cryptocommunity as a whole. So it's for a good cause!
+
 # YACUNA BOUNTY PROGRAM
 
 Bugs! We know they crawl around somewhere. Usually, they mean no harm and we’re delighted to see them as they can turn out to become real features. However, some bugs might interfere with the original concept of a secure and safeguarded environment for our customers to trade Bitcoins & other cryptocurrencies.
