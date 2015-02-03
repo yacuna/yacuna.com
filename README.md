@@ -56,7 +56,7 @@ To qualify for a bounty, you must:
 * If you choose to donate to a recognized charity we will match your bounty so that the charity gets double the bounty amount!
 * We of course, reserve the right to refuse any application.
 
-ATTRIBUTES OF A GOOD REPORT
+## ATTRIBUTES OF A GOOD REPORT
 
 * Include your name and link as you would like it to appear on our Wall of Fame (optional).
 * Include your XBT address for payment.
